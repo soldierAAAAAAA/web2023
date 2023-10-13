@@ -38,8 +38,8 @@ span.amp {
 }
 
 #masthead {
-	margin: 0 auto ;
-	margin-top: 20px;
+	/*margin: 0 auto ;
+	margin-top: 20px;*/
 	width: 800px;
 	color: #fff;
 }
@@ -50,14 +50,14 @@ span.amp {
 
 #nav {
 	float: right;
-	margin: 50px 10px 0 0;
+	/*margin: 50px 10px 0 0;*/
 	font-size: 1.4em;
 }
 
  
 #nav li {
 	display: inline;
-	margin: 0 0 0 20px;
+	/*margin: 0 0 0 20px;*/
 }
 
 #nav li a {
@@ -81,7 +81,7 @@ the layout
 */
 #main {
 	clear: both;
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	padding: 10px;
 	width: 780px;
 	background: #fff;
@@ -89,12 +89,12 @@ the layout
 }
 
 #main_title img {
-	border: 10px solid #ccc;
+	/*border: 10px solid #ccc;*/
 }
 
 #main_title h1 {
 	font-size: 2em;
-	margin: 10px 0 0 0;
+	/*margin: 10px 0 0 0;*/
 	padding: 10px;
 	text-align: center;
 	background: url('../images/tagline_bg.gif') repeat-x;
@@ -102,7 +102,7 @@ the layout
 
 #content, #sidebar {
 	width: 360px;
-	margin: 20px 0 20px 0;
+	/*margin: 20px 0 20px 0;*/
 	padding: 10px;
 }
 
@@ -136,12 +136,12 @@ the layout
 #sidebar h2 {
 	font-weight: bold;
 	border-bottom: 1px solid #ccc;
-	margin: 0 0 20px 0;
+	/*margin: 0 0 20px 0;*/
 	padding: 5px;
 }
 
 #port li {
-	margin: 0 10px 20px 0;
+	/*margin: 0 10px 20px 0;*/
 	float: left;
 	border: 5px solid #ddd;
 }
